@@ -13,3 +13,9 @@ Google scholar ricerca per ipotesi: ungulate vigilance drivers (potrebbero esser
 
 Cuando es la hunting season en nuestra area????
 
+
+CRITERIO PARA FORAGING/VIGILANCE DISTINCTION:
+IF nose to ground/substrate AND moving slowly → Foraging
+IF nose up/horizontal AND stationary → Vigilance  
+IF alternating rapidly → classify by dominant posture (>50% of clip)
+IF ambiguous → Vigilance/Smelling (your existing category — keep it)
