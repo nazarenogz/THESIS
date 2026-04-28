@@ -11,3 +11,5 @@ Per ogni comportamento per ogni specie devo vedere 2 o 3 ipotesi di cosa potrebb
 
 Google scholar ricerca per ipotesi: ungulate vigilance drivers (potrebbero essere high predation risk, quindi co-occurrence con il lupo, habitats with lateral obstruction or when they are far from refuge habitat or an escape terrain)
 
+Cuando es la hunting season en nuestra area????
+
