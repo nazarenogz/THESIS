@@ -9,3 +9,5 @@ non si può continuare a descrivere gli ecosistemi senza tenere in conto l'uomo.
 Se io faccio una regressione e vedo che la categoria uno che potrebbe essere foraging è determinata da una covariate x, per esempio se è prateria o bosco, io posso mappare le variabili che determinano il foraging. Mmarco dice che bisogna fare una multinomial regression. 
 Per ogni comportamento per ogni specie devo vedere 2 o 3 ipotesi di cosa potrebbe determinare il tipo di comportamento. Non si va a cercare una correlazione random, si cerca di formulare un ipotesi, che determinano le collone di covariate. Per gli ungulati probabilmente saranno le stesse, forse per il lupo sarà una diversa. 
 
+Google scholar ricerca per ipotesi: ungulate vigilance drivers (potrebbero essere high predation risk, quindi co-occurrence con il lupo, habitats with lateral obstruction or when they are far from refuge habitat or an escape terrain)
+
